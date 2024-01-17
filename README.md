@@ -17,7 +17,7 @@ start game
 ```
 python3 word_game.py
 ```
-######sample view
+###### sample view
 ```bash
 Welcome to the word cross hack!
 How to play:
@@ -34,7 +34,7 @@ Here are the valid English words we could suggest:
 ['quiet', 'quite']
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ```
-####NOTE: 
+#### NOTE: 
 The length of words generated will be same as the length of letters entered. If you wish to get words with a different length then type the letter and the length you want separated by a hyphen E.g
 ```bash
 Please type the letters: quiet-3
@@ -45,12 +45,12 @@ Here are the valid English words we could suggest:
 ```
 this generated all possible English words from the letter 'quiet' that is 3 characters long.
 
-###Continuity:
+### Continuity:
 This program is like a REPL, so you can just keep typing letters and getting suggestions without needing to manually run the script everytime.
 
-###End Game:
+### End Game:
 Press `ctr + c` to quit the game.
 
 
-Author:
+##### Author:
 i-wizard (njoagwuanidavid@gmail.com)
